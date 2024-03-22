@@ -1,3 +1,9 @@
+---
+permalink: /schedule
+title: Schedule
+---
+
+
 # FRQ Schedule
 
 [Here](https://docs.google.com/spreadsheets/d/1Wfwz3nKV8qktlLnZ6C2FdVYBZbUwVqcMH1nP-YzjyOA/edit#gid=0) is the link to the Topic sign up sheet.
